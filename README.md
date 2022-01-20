@@ -2,8 +2,6 @@
 
 [![goreportcard for simpleapples/cyclone][1]][2]
 [![License: MIT][3]][4]
-[![LICENSE][5]][6]
-[![996.icu][7]][8]
 
 Cyclone is a go package to spawn, reuse and manage a number of goroutines.
 
